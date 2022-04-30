@@ -1,0 +1,14 @@
+Package: Marboha
+Title: Marboha Color Palette
+Version: 0.0.0.1000
+Authors@R: 
+    person(given = "Ahmed",
+           family = "Moustafa",
+           role = c("aut", "cre"),
+           email = "amoustafa@aucegypt.edu")
+Description: Color Palette
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
